@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcosc_102_writeups=self.webpackChunkcosc_102_writeups||[]).push([[518],{7345:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/cs102-writeups/blog/tags/hola","allTagsPath":"/cs102-writeups/blog/tags","count":1}')}}]);
